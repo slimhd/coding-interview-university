@@ -17,7 +17,7 @@
     - balanced search trees (general concept, not details)
     - traversals: preorder, inorder, postorder, BFS, DFS
 - [Sorting](#sorting)
-    - selection
+    - selection 
     - insertion
     - heapsort
     - quicksort
